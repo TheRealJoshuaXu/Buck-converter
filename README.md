@@ -1,2 +1,2 @@
 # Buck-converter
-Designing a manufacturing a buck-converter utilizing KiCad
+Designing and manufacturing a buck-converter utilizing KiCad
